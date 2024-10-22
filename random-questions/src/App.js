@@ -1,10 +1,10 @@
-import { InputQuestion } from './inputQuestion';
+import { DebounceQuestion } from './debounceQuestion';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <InputQuestion />
+      <DebounceQuestion />
     </div>
   );
 }
